@@ -1,12 +1,12 @@
-\# 🌾 Stardew Valley Style Link Game
+# 🌾 Stardew Valley Style Link Game
 
 
 
-> A \*\*Stardew Valley–style\*\* relaxing puzzle game built with \*\*Python + Pygame\*\*.  
+> A **Stardew Valley–style** relaxing puzzle game built with **Python + Pygame**.  
 
 > Uses graph structure and BFS algorithm for pathfinding and supports multiple themes, ranking, scoring, hints, and reshuffling.  
 
-> Includes a \*\*Windows executable (.exe)\*\* — no Python required.
+> Includes a **Windows executable (.exe)** — no Python required.
 
 
 
@@ -14,7 +14,7 @@
 
 
 
-\## 🎮 Introduction
+## 🎮 Introduction
 
 
 
@@ -22,7 +22,7 @@ This project is a comprehensive practice for data structures and algorithms.
 
 It implements the “Link Game” mechanics using 2D arrays, graph structures, and BFS pathfinding.  
 
-The art style is inspired by \*Stardew Valley\*, combining algorithmic logic with casual gameplay.
+The art style is inspired by *Stardew Valley*, combining algorithmic logic with casual gameplay.
 
 
 
@@ -30,17 +30,17 @@ The art style is inspired by \*Stardew Valley\*, combining algorithmic logic wit
 
 
 
-\## 🌟 Features
+## 🌟 Features
 
 
 
-\- Graph structure + BFS connection detection  
+- Graph structure + BFS connection detection  
 
-\- Hint / Shuffle / Timer / Score / Pause / Ranking / Settings / Help  
+- Hint / Shuffle / Timer / Score / Pause / Ranking / Settings / Help  
 
-\- Modular design (separate UI and logic layers)  
+- Modular design (separate UI and logic layers)  
 
-\- Packaged executable for quick play  
+- Packaged executable for quick play  
 
 
 
@@ -64,7 +64,7 @@ The art style is inspired by \*Stardew Valley\*, combining algorithmic logic wit
 
 
 
-\## 📂 Project Structure
+## 📂 Project Structure
 
 
 
@@ -114,19 +114,19 @@ StardewValleyLinkingGame/
 
 
 
-\## 🕹️ How to Run
+## 🕹️ How to Run
 
 
 
-\### ✅ Method 1: Run Executable (Recommended)
+### ✅ Method 1: Run Executable (Recommended)
 
-1\. 👉 Download the latest release：https://github.com/SummerNeverEnds/StardewValleyLinkingGame/releases
+1. 👉 Download the latest release：https://github.com/SummerNeverEnds/StardewValleyLinkingGame/releases
 
-2\. Double-click to start playing — no Python installation needed  
+2. Double-click to start playing — no Python installation needed  
 
 
 
-\### 💻 Method 2: Clone it Locally and Run the Source Code Yourself（python main.py）
+### 💻 Method 2: Clone it Locally and Run the Source Code Yourself（python main.py）
 
 
 
